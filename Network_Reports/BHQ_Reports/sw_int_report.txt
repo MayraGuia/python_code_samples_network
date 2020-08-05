@@ -1,0 +1,9 @@
+++++++++++++++++++ 
+ST240 
+TwoGigabitEthernet1/0/33 is down, line protocol is down
+TwoGigabitEthernet1/0/34 is down, line protocol is down
+TwoGigabitEthernet1/0/35 is down, line protocol is down
+++++++++++++++++++ 
+ST100 
+GigabitEthernet1/0/4 is down, line protocol is down
+GigabitEthernet1/0/5 is down, line protocol is down
